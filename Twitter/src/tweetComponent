@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tweet Component</title>
+    <link href="/dist/output.css" rel="stylesheet">
+
+</head>
+<body class="bg-black">
+    <section class="w-566 p-205">
+        <div class="mt-14 ml-14 flex">
+            <img src="/public/images/user-avatar.png" alt="avatar" class="w-48 h-48 mr-4">
+            <div class="flex text-white">
+                <p class="mt-12">Akash Sureshbabu</p>
+                <p class="mt-12 ml-12 ">akash26</p>
+            </div>
+        </div>
+    </section>
+
+    
+</body>
+</html>
